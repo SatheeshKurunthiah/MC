@@ -11,15 +11,7 @@
     </string-array>
 
     <string-array name="input_files">
-        <item>File 1</item>
-        <item>File 2</item>
-        <item>File 3</item>
-        <item>File 4</item>
-        <item>File 5</item>
-        <item>File 6</item>
-        <item>File 7</item>
-        <item>File 8</item>
-        <item>File 9</item>
-        <item>File 10</item>
+        <item>Random User SVM</item>
+        <item>Valid User SVM</item>
     </string-array>
 </resources>
